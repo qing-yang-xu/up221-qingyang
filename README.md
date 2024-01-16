@@ -1,4 +1,5 @@
 # up221-qingyang
+This is Qingyang Xu's repository for UP221 - Introduction to GIS and Spatial Data Science.
 ## About Me
 Hello! I'm a first-year graduate student focusing on Transportation Engineering. I have a basic understanding of coding and am eager to learn more through this course. My main interest lies in Transit-oriented Development, and I'm excited to explore how our newfound skills can be applied in this field.
 ## Course Introduction
